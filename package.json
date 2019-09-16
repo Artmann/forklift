@@ -1,0 +1,10 @@
+{
+  "name": "forklift",
+  "author": "Christoffer Artmann <artgaard@gmail.com>",
+  "repository": {
+    "url": "https://github.com/Artmann/forklift"
+  },
+  "license": "MIT",
+  "private": true,
+  "workspaces": "packages/*"
+}
